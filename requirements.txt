@@ -1,3 +1,3 @@
 streamlit==1.32.2
-streamlit-folium
-folium
+streamlit-folium==0.16.0
+folium==0.15.1
